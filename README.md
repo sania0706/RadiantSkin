@@ -42,4 +42,4 @@ npm run dev
 
 The application will be available at `http://localhost:8081/`.
 
-🔗 **Live Demo:** [netify](skinradiant.netlify.app)
+🔗 **Live Demo:** `skinradiant.netlify.app`.
