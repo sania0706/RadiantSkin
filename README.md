@@ -39,3 +39,7 @@ npm install
 
 # 4️⃣ Start the development server
 npm run dev
+
+The application will be available at `http://localhost:8081/`.
+
+🔗 **Live Demo:** [netify](skinradiant.netlify.app)
