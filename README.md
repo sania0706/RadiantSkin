@@ -1,48 +1,41 @@
-Radiant Skin
-Welcome to the Radiant Skin project, a modern, full-featured beauty e-commerce website. This project is built to provide a personalized shopping experience for skincare and beauty products.
+# 🌸 Radiant Skin
 
-Features
-Interactive Skin Quiz: A personalized quiz to help users determine their skin type and get product recommendations.
+Welcome to the **Radiant Skin** project — a modern, full-featured beauty e-commerce website.  
+This project is designed to provide a **personalized shopping experience** for skincare and beauty products.
 
-Comprehensive Product Catalog: A wide range of products across different categories like skincare, makeup, haircare, and bodycare.
+---
 
-Educational Tutorials: Step-by-step guides for both skincare and makeup routines.
+## ✨ Features
+- 🧴 **Interactive Skin Quiz**: Personalized quiz to help users determine their skin type and get product recommendations.  
+- 🛍️ **Comprehensive Product Catalog**: Wide range of products across categories like skincare, makeup, haircare, and bodycare.  
+- 🎥 **Educational Tutorials**: Step-by-step guides for both skincare and makeup routines.  
+- 🛒 **Shopping Cart**: Functional cart system to manage selected products.  
 
-Shopping Cart: A functional cart system to manage selected products.
+---
 
-Technologies Used
+## 🛠️ Technologies Used
 This project is built with the following technologies:
+- ⚡ **Vite** – Fast front-end build tool.  
+- 🟦 **TypeScript** – Typed superset of JavaScript.  
+- ⚛️ **React** – Library for building user interfaces.  
+- 🎨 **shadcn-ui** – Reusable component collection.  
+- 🎀 **Tailwind CSS** – Utility-first CSS framework for rapid UI development.  
 
-Vite: A fast front-end build tool.
+---
 
-TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+## 🚀 Getting Started
 
-React: A library for building user interfaces.
+Run the following commands to set up and start the project locally:
 
-shadcn-ui: A collection of reusable components.
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/sania0706/RadiantSkin.git
 
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
-
-Getting Started
-Follow these steps to set up and run the project locally.
-
-Clone the repository:
-
-Bash
-
-git clone  https://github.com/sania0706/RadiantSkin.git
-Navigate to the project directory:
-
-Bash
-
+# 2️⃣ Navigate to the project directory
 cd RadiantSkin
-Install dependencies:
 
-Bash
-
+# 3️⃣ Install dependencies
 npm install
-Start the development server:
 
-Bash
-
+# 4️⃣ Start the development server
 npm run dev
