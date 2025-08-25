@@ -30,12 +30,12 @@ Clone the repository:
 
 Bash
 
-git clone <YOUR_GIT_URL>
+git clone  https://github.com/sania0706/RadiantSkin.git
 Navigate to the project directory:
 
 Bash
 
-cd <YOUR_PROJECT_NAME>
+cd RadiantSkin
 Install dependencies:
 
 Bash
