@@ -23,6 +23,11 @@ This project is built with the following technologies:
 
 ---
 
+
+The application will be available at `http://localhost:8081/`.
+
+🔗 **Live Demo:** `skinradiant.netlify.app`.
+
 ## 🚀 Getting Started
 
 Run the following commands to set up and start the project locally:
